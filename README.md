@@ -6,7 +6,7 @@ Neste repositório temos o notebook com todo o trabalho desenvolvido pela equipe
 
 ## Dados
 
-Na pasta data estão disponiveis os dados utilizados, sendo eles os de telemetria, disponibilizados na plataforma Kaggle(cubedesign_train.csv e cubedesign_test.csv), os dados do repositório Zenodo(data_from_ncbr2.csv), o arquivo de TLEs do NanoSsatc-br2(nanobr2_tle.csv). Na pasta raiz temos também o arquivo de efeméride(de421.bsp) necessário para nosso calculo da posição do satélite em relação a luz solar.
+Na pasta data estão disponiveis os dados utilizados, sendo eles os de telemetria, disponibilizados na plataforma Kaggle(cubedesign_train.csv e cubedesign_test.csv), os dados do repositório Zenodo(data_from_ncbr2.csv), o arquivo de TLEs do NanoSsatc-br2(nanobr2_tle.csv). Na pasta raiz temos também o arquivo de efeméride(de421.bsp) necessário para o calculo da posição do satélite em relação a luz solar.
 
 ## Execução 
 
